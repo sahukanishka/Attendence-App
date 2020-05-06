@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.assignment.attendenceappMa.Main2Activity">
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_logout"
+        app:showAsAction="always" />
+</menu>
